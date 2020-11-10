@@ -19,17 +19,17 @@ void Rectangle::set_height(int h) {
 }
 
 int Rectangle::area() {
-    return 99;
+    return width * height;
 }
 
 int Rectangle::perimeter() {
-	return 99;
+	return (width*2) + (height*2);
 }
 
 int Rectangle::get_width() {
-	return 99;
+	return width;
 }
 
 int Rectangle::get_height() {
-	return 99;
+	return height;
 }
