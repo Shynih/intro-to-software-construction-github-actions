@@ -1,4 +1,4 @@
-![failing_tests](https://github.com/cs100/lab-05---github-actions-jpeng052-nchan080-lab5/workflows/CI/badge.svg?branch=jpeng052%2Ffailing_tests)
+![failing_tests](https://github.com/cs100/lab-05---github-actions-jpeng052-nchan080-lab5/workflows/failing_tests/badge.svg?branch=jpeng052%2Ffailing_tests)
 ![passing_tests](https://github.com/cs100/lab-05---github-actions-jpeng052-nchan080-lab5/workflows/CI/badge.svg?branch=nchan080%2Fpassing_tests)
 # Continuous Integration (CI)
 In a previous lab we learned how to use GTest to write unit tests for our code. This is a very powerful skill to ensure that we don't break something in our code as we develop and that we can write code that lives up to specification. We have also discussed Test Driven Development (TDD) which has us write the tests to the specification first, then write enough code to pass the test before moving on. Now, this all works great, but we
