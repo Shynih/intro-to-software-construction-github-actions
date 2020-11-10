@@ -27,9 +27,9 @@ int Rectangle::perimeter() {
 }
 
 int Rectangle::get_width() {
-	return width;
+	return 0;
 }
 
 int Rectangle::get_height() {
-	return height;
+	return 0;
 }
